@@ -341,7 +341,7 @@ ul {
 }
 
 /* LARGE SIZE */
-@media(min-width: 700px) {
+@media(min-width: 800px) {
   body .content {
       padding: 0 4em;
   }
